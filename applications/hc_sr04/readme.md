@@ -1,0 +1,1 @@
+The code for this application originates from [Sanqui](https://github.com/Sanqui/flipperzero-firmware/blob/hc_sr04/applications/hc_sr04/hc_sr04.c)
